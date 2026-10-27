@@ -1,0 +1,6 @@
+{
+  "name": "ILLY WORKS",
+  "description": "Central digital workplace for ILLY Programming Company: employee directory, CEO command center, project tracker, chats, attendance, leave & payroll, and ILLY AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
